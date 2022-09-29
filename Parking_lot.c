@@ -226,8 +226,7 @@ int main()
             system("pause");
             break;
 
-            case 5: 
-            
+            case 5: // Thoát chương trình
             break;
 
         }
